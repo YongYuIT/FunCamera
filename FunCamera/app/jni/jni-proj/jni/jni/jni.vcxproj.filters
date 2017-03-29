@@ -26,10 +26,10 @@
     <ClInclude Include="..\..\..\com_thinking_funcamera_Camera_FrameHandler.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\com_thinking_funcamera_Camera_FrameHandler_FrameListener.h">
+    <ClInclude Include="..\..\..\tools.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\tools.h">
+    <ClInclude Include="..\..\..\com_thinking_funcamera_Camera_OpenCVTools.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
@@ -38,6 +38,15 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="..\..\..\tools.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\sumiao.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\shuicai.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\bianlian.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
