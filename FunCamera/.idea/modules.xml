@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FunCamera.iml" filepath="$PROJECT_DIR$/FunCamera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ad/ad.iml" filepath="$PROJECT_DIR$/ad/ad.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wpad/wpad.iml" filepath="$PROJECT_DIR$/wpad/wpad.iml" />
     </modules>
   </component>
 </project>
